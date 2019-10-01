@@ -42,3 +42,11 @@ solution 브랜치 삭제
 git branch -d solution
 
 ```
+remote solution branch 생성
+```
+git push origin solution
+```
+remote solution branch 삭제
+```
+git push origin --delete solution
+```
